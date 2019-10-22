@@ -1,9 +1,6 @@
 Class {
 	#name : #BaselineOfXMLWriter,
-	#superclass : #Object,
-	#instVars : [
-		'project'
-	],
+	#superclass : #BaselineOf,
 	#classVars : [
 		'LastVersionLoad'
 	],
